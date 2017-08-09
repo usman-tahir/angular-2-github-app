@@ -19,7 +19,7 @@ export class ReposPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad ReposPage');
+    console.log('Hello Repos Page');
   }
 
 }

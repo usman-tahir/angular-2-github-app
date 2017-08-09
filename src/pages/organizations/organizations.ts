@@ -19,7 +19,7 @@ export class OrganizationsPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad OrganizationsPage');
+    console.log('Hello Organizations Page');
   }
 
 }

@@ -19,7 +19,7 @@ export class UsersPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad UsersPage');
+    console.log('Hello Users Page');
   }
 
 }
