@@ -24,9 +24,9 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HelloIonicPage,
-    ItemDetailsPage,
-    ListPage
+    UsersPage,
+    ReposPage,
+    OrganizationsPage,
   ],
   providers: [
     StatusBar,
