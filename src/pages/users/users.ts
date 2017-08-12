@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 import { User } from '../../models/user';
-import { GithubUsersProvider } from '../../providers/github-users/github-users';
+import { GithubUsersProvider } from '../../providers/github-users';
 
 /**
  * Generated class for the UsersPage page.

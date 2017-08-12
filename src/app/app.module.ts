@@ -9,7 +9,7 @@ import { OrganizationsPage } from '../pages/organizations/organizations';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
-import { GithubUsersProvider } from '../providers/github-users/github-users';
+import { GithubUsersProvider } from '../providers/github-users';
 
 @NgModule({
   declarations: [
