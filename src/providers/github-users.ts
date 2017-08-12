@@ -19,7 +19,7 @@ export class GithubUsersProvider {
   }
 
   load(): Observable<User[]> {
-    return this.http.get(`{$this.githubApiUrl}/users`)
+    return this.http.get(`${this.githubApiUrl}/users`)
       .map(result => <User[]>result.json());
   }
 
